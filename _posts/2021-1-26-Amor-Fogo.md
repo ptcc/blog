@@ -2,7 +2,6 @@
 layout: post
 title: Amor é Fogo que arde sem se ver
 ---
-# Amor é fogo que arde sem se ver
 
 ## Deus é amor
 
