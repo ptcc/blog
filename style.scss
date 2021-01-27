@@ -278,6 +278,11 @@ nav {
   background-color: $lightGray;
 }
 
+sup{
+  vertical-align: super;
+  font-size:0.5em;
+}
+
 footer {
   padding: 20px 0;
   text-align: center;
