@@ -36,7 +36,7 @@ Algumas pessoas ainda hoje não acreditam nisto e insistem que Deus mata e destr
 
 O segundo é **analisar melhor o texto de coríntios**:
 
-A palavra traduzida maioritariamente como “tentar” deveria, mais correctamente ser traduzida como “pressionar para fora” <sup>[1](#footnote1) "De acordo com o Word Study Greek-English New Testament: with complete concordance de Paul R. McReynolds — um recurso para palavras gregas altamente respeitado e reconhecido."</sup>, ou seja:
+A palavra traduzida maioritariamente como “tentar” deveria, mais correctamente ser traduzida como “pressionar para fora” <sup>[1](#footnote1 "De acordo com o Word Study Greek-English New Testament: with complete concordance de Paul R. McReynolds — um recurso para palavras gregas altamente respeitado e reconhecido.")</sup>, ou seja:
 > E não **pressionemos a Cristo para fora**, como alguns deles também pressionaram, e pereceram pelas serpentes.
 E não murmureis, como também alguns deles murmuraram, e pereceram pelo destruidor.
 > *1Coríntios 10:9–10*
