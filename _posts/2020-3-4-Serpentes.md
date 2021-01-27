@@ -36,7 +36,7 @@ Algumas pessoas ainda hoje não acreditam nisto e insistem que Deus mata e destr
 
 O segundo é **analisar melhor o texto de coríntios**:
 
-A palavra traduzida maioritariamente como “tentar” deveria, mais correctamente ser traduzida como “pressionar para fora” <a name="myfootnote1">1</a>, ou seja:
+A palavra traduzida maioritariamente como “tentar” deveria, mais correctamente ser traduzida como “pressionar para fora” <sup>[1](#footnote1)</sup>, ou seja:
 > E não **pressionemos a Cristo para fora**, como alguns deles também pressionaram, e pereceram pelas serpentes.
 E não murmureis, como também alguns deles murmuraram, e pereceram pelo destruidor.
 > *1Coríntios 10:9–10*
@@ -79,4 +79,4 @@ Deus é o nosso Paizinho santo e misericordioso que nos quer sempre proteger do 
 
 ### Notas:
 
-<sup>[1](#myfootnote1)</sup> De acordo com o [Word Study Greek-English New Testament: with complete concordance](https://www.amazon.com/Word-Study-Greek-English-New-Testament/dp/0842382909) de Paul R. McReynolds — um recurso para palavras gregas altamente respeitado e reconhecido.
+<a name="footnote1">1</a> De acordo com o [Word Study Greek-English New Testament: with complete concordance](https://www.amazon.com/Word-Study-Greek-English-New-Testament/dp/0842382909) de Paul R. McReynolds — um recurso para palavras gregas altamente respeitado e reconhecido.
