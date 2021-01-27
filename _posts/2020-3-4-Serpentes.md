@@ -1,8 +1,8 @@
-
 ---
 layout: post
 title: Foi Jesus quem enviou as serpentes?
 ---
+
 Em 1Coríntios 10:9–10 quem enviou as serpentes que mataram muitos israelitas (e quem é o responsável pela morte dos 14.700 que murmuraram e morreram por causa de uma praga)?
 > E não tentemos a Cristo, como alguns deles também tentaram, e pereceram pelas serpentes.
 E não murmureis, como também alguns deles murmuraram, e pereceram pelo destruidor.
