@@ -10,14 +10,13 @@ layout: default
   </div>
 
   <div class="date">
-    Escrito em {{ page.date | date: "%B %e, %Y" }}
     {% capture i18n_date %}
-    {{ page.date | date: "%-d" }}
+    {{ page.date | date: "%-d" }} de 
     {% assign m = page.date | date: "%-m" | minus: 1 %}
-    {{ site.data.pt.months[m] }}
+    {{ site.data.pt.months[m] }} de 
     {{ page.date | date: "%Y" }}
     {% endcapture %}
-    {{i18n_date}}
+    Escrito em {{i18n_date}}
   </div>
 
   {% include disqus.html %}
