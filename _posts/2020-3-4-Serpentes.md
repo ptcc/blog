@@ -81,3 +81,4 @@ Deus é o nosso Paizinho santo e misericordioso que nos quer sempre proteger do 
 
 <a name="footnote1"></a>1. De acordo com o [Word Study Greek-English New Testament: with complete concordance](https://www.amazon.com/Word-Study-Greek-English-New-Testament/dp/0842382909) de Paul R. McReynolds — um recurso para palavras gregas altamente respeitado e reconhecido. [^](#footnote1-origin)
 
+--
