@@ -1,5 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: you/you.github.io
+  branch: master
+  site_domain: ptcc-blog.netlify.app
 media_folder: "images/uploads"
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
