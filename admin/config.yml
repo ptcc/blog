@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: you/you.github.io
+  repo: ptcc/blog
   branch: master
   site_domain: ptcc-blog.netlify.app
 media_folder: "images/uploads"
